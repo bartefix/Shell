@@ -1,2 +1,3 @@
-# SO-shell
-Template for the shell project in Operating Systems course at tcs@JU.
+# SHELL
+Command-line Shell project created for an operating system course at Jagiellonian University. The parser and tests were provided as course material.
+
